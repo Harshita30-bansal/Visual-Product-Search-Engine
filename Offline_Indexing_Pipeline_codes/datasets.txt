@@ -1,0 +1,7 @@
+https://www.kaggle.com/datasets/harshitabansal307/blipcaptionsoutput - blip output
+https://www.kaggle.com/datasets/harshitabansal307/yolo-bbox-crops-v1 - bbox output
+https://www.kaggle.com/datasets/harshitabansal307/blip2-opt-27b - model blip
+https://www.kaggle.com/datasets/harshitabansal307/preprocesseddatasetvr - preprocessed dataset
+https://www.kaggle.com/datasets/harshitabansal307/fashionvirtualsearchdataset - original dataset
+https://www.kaggle.com/datasets/likithareddy2508/clip-indexes-ab - clip evaluation ab
+https://www.kaggle.com/datasets/likithareddy2508/clip-finetuned-indexes-c - clip evaluation c
